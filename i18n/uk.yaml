@@ -12,3 +12,6 @@
 
 - id: bookSearchConfig
   translation: '{ split: /[^a-zа-яё0-9\w]/gi }'
+
+- id: donate
+  translation: 'Допомогти благодійним організаціям у 🇺🇦!'

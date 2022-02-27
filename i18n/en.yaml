@@ -12,3 +12,6 @@
 
 - id: bookSearchConfig
   translation: '{ cache: true }'
+
+- id: donate
+  translation: 'Donate to Charities in 🇺🇦!'
