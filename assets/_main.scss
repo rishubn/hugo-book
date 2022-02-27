@@ -87,10 +87,11 @@ ul.pagination {
 .book-brand {
   margin-top: 0;
   margin-bottom: $padding-16;
-
+  overflow:hidden;
   img {
-    height: 1.5em;
-    width: 1.5em;
+    height: 10em;
+    width: 10m;
+    margin: -3em 0 -3em 0;
     margin-inline-end: $padding-8;
   }
 }
